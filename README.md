@@ -1,14 +1,19 @@
-# git_test1
-It's my git test
 
-##正文
-我的老师是：
-1. 芳芳
-2. 方方
+##自我介绍
+老师你好，我叫蒋俊杰
 
-我的女朋友们有：
-* 樱岛麻衣
-* 水原千鹤
+我的爱好有：
+* Game
+* Coding
+
+我学习过的编程语言有：
+1. HTML
+2. CSS
+3. JavaScript
+4. Java
+
+对了，`Vue.js`永远滴神，(虽然我不会)
+
 
 写一段代码：
 
@@ -21,5 +26,5 @@ var b = "uzi,永远滴神!";
 console.log(b);
 ```
 
-不懂的[去百度](https://www.baidu.com/)
+我有不懂的知识会去[这里](https://xiedaimala.com/)学习
 
