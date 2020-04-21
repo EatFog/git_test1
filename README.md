@@ -21,5 +21,5 @@ var b = "uzi,永远滴神!";
 console.log(b);
 ```
 
-不懂的[去百度](www.baidu.com)
+不懂的[去百度](https://www.baidu.com/)
 
